@@ -1,0 +1,21 @@
+C:\Code\ДЗ на 8 число\ДЗ на 8 число\bin\Debug\ДЗ на 8 число.exe.config
+C:\Code\ДЗ на 8 число\ДЗ на 8 число\bin\Debug\ДЗ на 8 число.exe
+C:\Code\ДЗ на 8 число\ДЗ на 8 число\bin\Debug\ДЗ на 8 число.pdb
+C:\Code\ДЗ на 8 число\ДЗ на 8 число\obj\Debug\ДЗ на 8 число.csproj.AssemblyReference.cache
+C:\Code\ДЗ на 8 число\ДЗ на 8 число\obj\Debug\ДЗ на 8 число.csproj.CoreCompileInputs.cache
+C:\Code\ДЗ на 8 число\ДЗ на 8 число\obj\Debug\ДЗ на 8 число.exe
+C:\Code\ДЗ на 8 число\ДЗ на 8 число\obj\Debug\ДЗ на 8 число.pdb
+E:\ДЗ Cods\ДЗ на 8 число\ДЗ на 8 число\bin\Debug\ДЗ на 8 число.exe.config
+E:\ДЗ Cods\ДЗ на 8 число\ДЗ на 8 число\bin\Debug\ДЗ на 8 число.exe
+E:\ДЗ Cods\ДЗ на 8 число\ДЗ на 8 число\bin\Debug\ДЗ на 8 число.pdb
+E:\ДЗ Cods\ДЗ на 8 число\ДЗ на 8 число\obj\Debug\ДЗ на 8 число.csprojAssemblyReference.cache
+E:\ДЗ Cods\ДЗ на 8 число\ДЗ на 8 число\obj\Debug\ДЗ на 8 число.csproj.CoreCompileInputs.cache
+E:\ДЗ Cods\ДЗ на 8 число\ДЗ на 8 число\obj\Debug\ДЗ на 8 число.exe
+E:\ДЗ Cods\ДЗ на 8 число\ДЗ на 8 число\obj\Debug\ДЗ на 8 число.pdb
+D:\cod\ДЗ Cods\ДЗ на 8 число\ДЗ на 8 число\bin\Debug\ДЗ на 8 число.exe.config
+D:\cod\ДЗ Cods\ДЗ на 8 число\ДЗ на 8 число\bin\Debug\ДЗ на 8 число.exe
+D:\cod\ДЗ Cods\ДЗ на 8 число\ДЗ на 8 число\bin\Debug\ДЗ на 8 число.pdb
+D:\cod\ДЗ Cods\ДЗ на 8 число\ДЗ на 8 число\obj\Debug\ДЗ на 8 число.csproj.AssemblyReference.cache
+D:\cod\ДЗ Cods\ДЗ на 8 число\ДЗ на 8 число\obj\Debug\ДЗ на 8 число.csproj.CoreCompileInputs.cache
+D:\cod\ДЗ Cods\ДЗ на 8 число\ДЗ на 8 число\obj\Debug\ДЗ на 8 число.exe
+D:\cod\ДЗ Cods\ДЗ на 8 число\ДЗ на 8 число\obj\Debug\ДЗ на 8 число.pdb
